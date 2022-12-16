@@ -1,0 +1,10 @@
+{
+    "make":{
+        "title":"MAKE",
+        "options": ["AUDI", "BMW", "VAUXHAL", "MERCEDES", "PEUGEOT", "RENAULT"]
+    },
+    "color":{
+        "title":"COLOR",
+        "options":["BLUE", "RED", "BLACK", "ORANGE"]
+    }
+}

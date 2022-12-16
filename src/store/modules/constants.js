@@ -1,0 +1,4 @@
+export const VEHICLE_MAKE = "VEHICLE_MAKE"
+export const VEHICLE_COLOR = "VEHICLE_COLOR"
+export const VEHICLE_CODE = "VEHICLE_CODE"
+export const VEHICLE_STATUS = "VEHICLE_STATUS"
